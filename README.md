@@ -1,4 +1,4 @@
--Projeto para enviar e-mail Utilizando o java.
+# Nome do projeto
 
 1- Colocar seu usuário e-mail na String meuEmail. Ex: String meuEmail = "exemplo@gmail.com"
 
