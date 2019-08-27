@@ -1,4 +1,4 @@
-# SMTP 
+# Envio de email SMTP utilizando o JAVA 
 
 # Descrição:
   Implementação para envio de e-mail utilizando utilizando a linguagem as bibliotecas do JAVA.
