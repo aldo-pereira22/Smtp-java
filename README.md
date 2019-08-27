@@ -17,5 +17,8 @@
    Colocar o seu endereço de email na String meuEmail. Ex: String meuEmail = "meuEmail@gmail.com"
    Colocar a senha de acesso a aplicativos na String senha. Ex: String senha = "suaSenha"
    
-  
- 
+   # Finalidade do projeto
+   Este projeto foi feito para realizar uma atividade da disciplina de rede de computadores, na qual demonstra a utulização do       
+   protocolo SMTP.
+   
+   
